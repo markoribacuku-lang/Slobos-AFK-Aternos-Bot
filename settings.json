@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "sobakabiglapodorozi.aternos.me",
+    "ip": "mule.aternos.host",
     "port": 11750,
     "version": "1.21.1",
     "try-creative": false
